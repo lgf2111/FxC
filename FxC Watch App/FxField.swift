@@ -32,6 +32,6 @@ struct FxField: View {
 
 struct FxField_Previews: PreviewProvider {
     static var previews: some View {
-        FxField(value: .constant("0.58"), code: .constant("VND"))
+        FxField(value: .constant("0.57"), code: .constant("VND"))
     }
 }
